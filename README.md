@@ -20,9 +20,7 @@
 <b> <h2 align="center"> 📘 My top open source projects </h2> </b>
 <br>
 <p align="center">
-<a href="https://github.com/asadbekdev/InstagramBot"><img src="https://img.shields.io/badge/INSTAGRAMBOT-%23E4405F.svg?&style=for-the-badge&logo=InstagramBot&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://t.me/adevpro"><img src="https://img.shields.io/badge/TELEGRAMBOT-0088cc.svg?&style=for-the-badge&logo=telegrambot&logoColor=white" alt="Telegram" /></a>&nbsp;
-<a href="https://github.com/asadbekdev?tab=repositories"><img src="https://img.shields.io/badge/SEE MORE-%23c34836.svg?&style=for-the-badge&logo=seemore&logoColor=white" alt="Gmail"/></a>&nbsp;
+
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 <br>
