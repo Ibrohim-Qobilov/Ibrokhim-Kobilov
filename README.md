@@ -13,7 +13,6 @@
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: ibrokhim112@gmail.com<br>
 - ⚡️ Fun fact: I use linux🐧
-- ⚡️ Fun fact: I use WinWindows 
 <br>
 <br>
 <hr>
