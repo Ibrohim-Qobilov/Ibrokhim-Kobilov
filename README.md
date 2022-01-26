@@ -13,6 +13,7 @@
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: ibrokhim112@gmail.com<br>
 - ⚡️ Fun fact: I use linux🐧
+- ⚡️ Fun fact: I use WinWindows 
 <br>
 <br>
 <hr>
@@ -47,20 +48,14 @@
 </p>
 <br>
 <br>
-
-
 <b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
-
 <p align="center">
 &nbsp; <a href="https://twitter.com/ibrokhimkobilov" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://instagram.com/ibrokhim_kobilov" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/ibrokhim_kobilov/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:yaxshidasturchi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://t.me/ibrokhim_blog" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
-  
-</p>
-
+  </p>
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
 #### Thank You for visiting😇
