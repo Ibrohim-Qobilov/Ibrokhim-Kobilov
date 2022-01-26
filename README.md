@@ -29,17 +29,14 @@
 
   ![flutter](https://img.shields.io/badge/-flutter-grey?style=for-the-badge&logo=dlutter&logoColor=white&labelColor=0075BA)
   ![Dart](https://img.shields.io/badge/-dart-grey?style=for-the-badge&logo=dart&logoColor=white&labelColor=0075BA)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F)
+  
   ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
   ![django](https://img.shields.io/badge/-django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=092e20)
   ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFA611)
   ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=211F1F)
   <br>
   ![linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=072c61)
-  ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)
-  ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=264de4)
-  ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=CD6799)
-  ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+  
 
 </p>
 <br>
